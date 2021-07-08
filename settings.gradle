@@ -1,0 +1,2 @@
+rootProject.name = "Control All The Things"
+include ':app'

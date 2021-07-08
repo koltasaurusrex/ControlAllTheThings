@@ -10,7 +10,7 @@ The state of the units is saved in a database so that I will be able to see the
 status no matter if the app restarts.
 
 
-[Software Demo Video](https://youtu.be/oz8JgZUQOrU)
+[Software Demo Video](https://youtu.be/YZmDvs3yLmM)
 
 # Development Environment
 
